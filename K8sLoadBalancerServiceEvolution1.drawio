@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-01-25T15:55:16.139Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" etag="C12HfmXAQHpdGd0Yjuvx" version="23.0.1" type="github">
+<mxfile host="app.diagrams.net" modified="2024-01-25T16:07:52.810Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" etag="u-GgTQhUb6h8HhdRE0hZ" version="23.0.1" type="github">
   <diagram name="Page-1" id="ux_PUUvleqaBWZlEBw-f">
     <mxGraphModel dx="1061" dy="1878" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -12,9 +12,6 @@
         </mxCell>
         <mxCell id="pP3D3UpvlZL9q_hh4rRk-4" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#bac8d3;strokeColor=#23445d;" parent="1" vertex="1">
           <mxGeometry x="461.5" y="-1020" width="288.5" height="278.91" as="geometry" />
-        </mxCell>
-        <mxCell id="pP3D3UpvlZL9q_hh4rRk-5" value="&lt;b&gt;Node&amp;nbsp;&lt;/b&gt;192.168.0.1&lt;b&gt;&amp;nbsp;&lt;/b&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;rotation=90;" parent="1" vertex="1">
-          <mxGeometry x="689.57" y="-978.4" width="103.5" height="28" as="geometry" />
         </mxCell>
         <mxCell id="pP3D3UpvlZL9q_hh4rRk-16" value="" style="endArrow=none;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=1;entryDx=0;entryDy=0;dashed=1;" parent="1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -55,7 +52,7 @@
         <mxCell id="pP3D3UpvlZL9q_hh4rRk-7" value="&lt;font style=&quot;font-size: 10px;&quot;&gt;&lt;b style=&quot;border-color: var(--border-color); text-align: center;&quot;&gt;Pod&amp;nbsp;&lt;/b&gt;&lt;span style=&quot;border-color: var(--border-color); text-align: center;&quot;&gt;10.244.0.1&lt;/span&gt;&lt;/font&gt;" style="text;whiteSpace=wrap;html=1;rotation=0;" parent="1" vertex="1">
           <mxGeometry x="619.95" y="-999.4" width="71.12" height="28" as="geometry" />
         </mxCell>
-        <mxCell id="lmyOfEDprMvOEez0UIYF-1" value="&lt;b&gt;&lt;font style=&quot;font-size: 14px;&quot;&gt;http://&amp;lt;node-ip&amp;gt;:30008&lt;/font&gt;&lt;/b&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="lmyOfEDprMvOEez0UIYF-1" value="&lt;b&gt;&lt;font style=&quot;font-size: 14px;&quot;&gt;http://192.168.0.1:30008&lt;/font&gt;&lt;/b&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="270" y="-904.59" width="160" height="30" as="geometry" />
         </mxCell>
         <mxCell id="lmyOfEDprMvOEez0UIYF-3" value="" style="endArrow=none;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=1;entryDx=0;entryDy=0;dashed=1;" edge="1" parent="1">
